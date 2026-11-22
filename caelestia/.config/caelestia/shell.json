@@ -1,0 +1,44 @@
+{
+  "general": {
+    "logo": "",
+    "showOverFullscreen": false,
+    "mediaGifSpeedAdjustment": 300,
+    "sessionGifSpeed": 0.7,
+    "apps": {
+      "terminal": ["foot"],
+      "audio": ["pwvucontrol"],
+      "playback": ["mpv"],
+      "explorer": ["thunar"]
+    },
+    "idle": {
+      "lockBeforeSleep": true,
+      "inhibitWhenAudio": true,
+      "inhibitWhenCharging": false,
+      "timeouts": [
+        {
+          "timeout": 180,
+          "idleAction": "lock",
+          "inhibitWhenAudio": false,
+          "inhibitWhenCharging": false,
+          "respectInhibitors": true
+        },
+        {
+          "timeout": 300,
+          "idleAction": "dpms off",
+          "returnAction": "dpms on"
+        },
+        {
+          "timeout": 600,
+          "idleAction": ["suspendThenHibernate"]
+        }
+      ]
+    }
+  },
+  "paths": {
+    "sessionGif": "/mnt/storage/Downloads/session-fixed.gif",
+    "mediaGif": "/mnt/storage/Downloads/media-fixed.gif"
+  },
+  "services": {
+    "weatherLocation": "Manhattan"
+  }
+}
