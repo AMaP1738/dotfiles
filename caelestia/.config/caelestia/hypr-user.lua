@@ -68,3 +68,12 @@ hl.window_rule({
     float = true,
     center = true
 })
+hl.window_rule({
+    name = "runelite-launcher-splash",
+    match = {
+        initial_class = "^(net-runelite-client-RuneLite)$",
+        initial_title = "^(RuneLite Launcher)$",
+    },
+    float = true,
+    center = true,
+})

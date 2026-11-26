@@ -38,10 +38,10 @@ return {
     -- System & Session
 
     -- Clipboard & Emoji
-    kbClipboard             = "", -- SUPER + V
-    kbClipboardDel          = "", -- SUPER + ALT + V
-    kbClipboardPasteLatest  = "", -- CTRL + SHIFT + ALT + V
-    kbEmoji                 = "", -- SUPER + Period
+    kbClipboard                 = "",
+    kbClipboardDel              = "",
+    kbClipboardPasteLatest      = "",
+    kbEmoji                     = "",
 
     -- Special Workspaces
 

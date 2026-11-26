@@ -22,9 +22,9 @@
     "enableChromium": true,
     "enableZed": true,
     "enableCava": true,
-    "iconTheme": "Flat-Remix-Cyan-Dark",
-    "iconThemeLight": "Flat-Remix-Cyan-Light",
-    "iconThemeDark": "Flat-Remix-Cyan-Dark"
+    "iconTheme": "Flat-Remix-Blue-Dark",
+    "iconThemeLight": "Flat-Remix-Blue-Light",
+    "iconThemeDark": "Flat-Remix-Blue-Dark"
   },
   "toggles": {
     "communication": {
