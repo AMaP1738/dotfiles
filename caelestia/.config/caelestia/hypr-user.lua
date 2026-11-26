@@ -77,3 +77,8 @@ hl.window_rule({
     float = true,
     center = true,
 })
+hl.config({
+    ["exec-once"] = {
+        "openrgb --startminimized --server"
+    }
+})
