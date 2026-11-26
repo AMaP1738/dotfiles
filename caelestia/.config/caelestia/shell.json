@@ -1,4 +1,11 @@
 {
+  "appearance": {
+    "transparency": {
+      "enabled": true,
+      "base": 0.4,
+      "layers": 0.15
+    }
+  },
   "general": {
     "logo": "",
     "showOverFullscreen": false,
@@ -42,3 +49,4 @@
     "weatherLocation": "Manhattan"
   }
 }
+

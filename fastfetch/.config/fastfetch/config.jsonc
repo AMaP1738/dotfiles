@@ -31,7 +31,7 @@
     {
       "type": "datetime",
       "key": "\u200B│  ♡ {$USER}",
-      "format": "\u001b[95G{11} {9} │"
+      "format": "\u001b[89G{11} {9} │"
     },
     {
       "type": "custom",
@@ -40,63 +40,63 @@
     {
       "type": "os",
       "key": "\u200B│  distro",
-      "format": "\u001b[58G│ {2}\u001b[102G│"
+      "format": "\u001b[52G│ {2}\u001b[96G│"
     },
     {
       "type": "kernel",
       "key": "\u200B│  kernel",
-      "format": "\u001b[58G│ {2}\u001b[102G│"
+      "format": "\u001b[52G│ {2}\u001b[96G│"
     },
     {
       "type": "terminal",
       "key": "\u200B│  term",
-      "format": "\u001b[58G│ {1}\u001b[102G│"
+      "format": "\u001b[52G│ {1}\u001b[96G│"
     },
     {
       "type": "shell",
       "key": "\u200B│  shell",
-      "format": "\u001b[58G│ {1}\u001b[102G│"
+      "format": "\u001b[52G│ {1}\u001b[96G│"
     },
     {
       "type": "wm",
       "key": "\u200B│  wm",
-      "format": "\u001b[58G│ {1}\u001b[102G│"
+      "format": "\u001b[52G│ {1}\u001b[96G│"
     },
     {
       "type": "font",
       "key": "\u200B│  font",
-      "format": "\u001b[58G│ {1}\u001b[102G│"
+      "format": "\u001b[52G│ {1}\u001b[96G│"
     },
     {
       "type": "board",
       "key": "\u200B│  brick",
-      "format": "\u001b[58G│ {1}\u001b[102G│"
+      "format": "\u001b[52G│ {1}\u001b[96G│"
     },
     {
       "type": "display",
       "key": "\u200B│  display",
-      "format": "\u001b[58G│ {1}x{2}px {12}in {3}hz\u001b[102G│"
+      "format": "\u001b[52G│ {1}x{2}px {12}in {3}hz\u001b[96G│"
     },
     {
       "type": "disk",
       "key": "\u200B│  disk",
-      "format": "\u001b[58G│ {1} / {2}\u001b[102G│"
+      "format": "\u001b[52G│ {1} / {2}\u001b[96G│"
     },
     {
       "type": "memory",
       "key": "\u200B│  memory",
-      "format": "\u001b[58G│ {1} / {2}\u001b[102G│"
+      "format": "\u001b[52G│ {1} / {2}\u001b[96G│"
     },
     {
       "type": "disk",
       "folders": "/",
       "key": "\u200B│  OS Age",
-      "format": "\u001b[58G│ {days} days\u001b[102G│"
+      "format": "\u001b[52G│ {days} days\u001b[96G│"
     },
     {
       "type": "uptime",
       "key": "\u200B│  uptime",
-      "format": "\u001b[58G│ {1} Days {2} Hours\u001b[102G│"
+      "format": "\u001b[52G│ {1} Days {2} Hours\u001b[96G│"
     },
     {
       "type": "custom",
@@ -104,3 +104,4 @@
     }
   ]
 }
+
